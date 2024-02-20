@@ -10,7 +10,7 @@
 
 ## Link
 
-Link to Walkthrough Video: 
+Link to Walkthrough Video: https://drive.google.com/file/d/1Z-_lhQvT1Lt32qtLkVrUi9xPZro5zd-C/view
 
 ## User Story
 
