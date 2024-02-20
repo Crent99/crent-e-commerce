@@ -4,8 +4,8 @@
 
 - [Title](#title)
 - [Link](#link)
-- [User Story](#userStory)
-- [Acceptance Criteria](#acceptanceCriteria)
+- [UserStory](#userStory)
+- [AcceptanceCriteria](#acceptanceCriteria)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contacts](#contacts)
